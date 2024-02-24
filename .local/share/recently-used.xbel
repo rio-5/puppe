@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/runner/puppeteer/screenshot.png" added="2023-12-11T12:54:48.505524Z" modified="2023-12-11T12:55:34.328109Z" visited="2023-12-11T12:54:48.505526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2023-12-11T12:55:34.328105Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/runner/puppeteer/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220812150811.jpg" added="2023-12-20T07:17:24.740156Z" modified="2023-12-20T07:17:24.740163Z" visited="2023-12-20T07:17:24.740158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2023-12-20T07:17:24.740160Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/runner/puppeteer/imgs13.png" added="2023-12-20T07:18:36.719047Z" modified="2023-12-20T07:19:14.314008Z" visited="2023-12-20T07:18:36.719049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2023-12-20T07:19:14.314006Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/runner/puppeteer/f0e5521936fe43d7b37d5cf47a47e07e.jpeg" added="2023-12-20T07:24:05.526891Z" modified="2023-12-20T07:24:05.526899Z" visited="2023-12-20T07:24:05.526892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2023-12-20T07:24:05.526895Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/runner/puppeteer/img8.png" added="2023-12-20T07:26:20.295601Z" modified="2023-12-20T07:26:20.295609Z" visited="2023-12-20T07:26:20.295603Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2023-12-20T07:26:20.295606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
